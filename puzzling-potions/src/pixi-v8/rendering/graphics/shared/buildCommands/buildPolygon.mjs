@@ -1,0 +1,17 @@
+import { triangulateWithHoles } from '../utils/triangulateWithHoles.mjs';
+
+const emptyArray = [];
+const buildPolygon = {
+  build(shape, points) {
+    for (let i = 0; i < shape.points.length; i++) {
+      points[i] = shape.points[i];
+    }
+    return points;
+  },
+  triangulate(points, vertices, verticesStride, verticesOffset, indices, indicesOffset) {
+    triangulateWithHoles(points, emptyArray, vertices, verticesStride, verticesOffset, indices, indicesOffset);
+  }
+};
+
+export { buildPolygon };
+//# sourceMappingURL=buildPolygon.mjs.map
