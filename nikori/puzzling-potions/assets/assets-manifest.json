@@ -13,8 +13,8 @@
             "bgm-game.mp3"
           ],
           "src": [
-            "common/bgm-game-S8hPmw.ogg",
-            "common/bgm-game-IXGL8w.mp3"
+            "common/bgm-game-IXGL8w.mp3",
+            "common/bgm-game-dWSCmg.ogg"
           ],
           "data": {
             "tags": {
@@ -28,8 +28,8 @@
             "bgm-main.mp3"
           ],
           "src": [
-            "common/bgm-main-al6Nhg.mp3",
-            "common/bgm-main-1kaTYQ.ogg"
+            "common/bgm-main-XN28PA.ogg",
+            "common/bgm-main-al6Nhg.mp3"
           ],
           "data": {
             "tags": {
@@ -93,7 +93,7 @@
           ],
           "src": [
             "common/sfx-bubble-rb5GuA.mp3",
-            "common/sfx-bubble-mihV.ogg"
+            "common/sfx-bubble-2OKNLw.ogg"
           ],
           "data": {
             "tags": {
@@ -108,7 +108,7 @@
           ],
           "src": [
             "common/sfx-correct-ZrHc3w.mp3",
-            "common/sfx-correct-QmZkfw.ogg"
+            "common/sfx-correct-zLz6_g.ogg"
           ],
           "data": {
             "tags": {
@@ -123,7 +123,7 @@
           ],
           "src": [
             "common/sfx-countdown-YORh9w.mp3",
-            "common/sfx-countdown-LLkZTw.ogg"
+            "common/sfx-countdown-gY5f-Q.ogg"
           ],
           "data": {
             "tags": {
@@ -137,8 +137,8 @@
             "sfx-hover.wav"
           ],
           "src": [
-            "common/sfx-hover-TOTw8w.ogg",
-            "common/sfx-hover-r_6VPQ.mp3"
+            "common/sfx-hover-r_6VPQ.mp3",
+            "common/sfx-hover-49zczA.ogg"
           ],
           "data": {
             "tags": {
@@ -153,7 +153,7 @@
           ],
           "src": [
             "common/sfx-incorrect-vJAtfw.mp3",
-            "common/sfx-incorrect-2TqEEA.ogg"
+            "common/sfx-incorrect-IZyiyg.ogg"
           ],
           "data": {
             "tags": {
@@ -167,7 +167,7 @@
             "sfx-match.wav"
           ],
           "src": [
-            "common/sfx-match-N03stQ.ogg",
+            "common/sfx-match-zAePqw.ogg",
             "common/sfx-match-6d7TnQ.mp3"
           ],
           "data": {
@@ -182,7 +182,7 @@
             "sfx-points.wav"
           ],
           "src": [
-            "common/sfx-points-sQuZrQ.ogg",
+            "common/sfx-points-kbK_OQ.ogg",
             "common/sfx-points-fLYn1w.mp3"
           ],
           "data": {
@@ -197,8 +197,8 @@
             "sfx-press.wav"
           ],
           "src": [
-            "common/sfx-press-zlJ7.ogg",
-            "common/sfx-press-z132.mp3"
+            "common/sfx-press-z132.mp3",
+            "common/sfx-press-58o-ow.ogg"
           ],
           "data": {
             "tags": {
@@ -213,7 +213,7 @@
           ],
           "src": [
             "common/sfx-special-ul6Vqg.mp3",
-            "common/sfx-special-0dZJeQ.ogg"
+            "common/sfx-special-e9SB4Q.ogg"
           ],
           "data": {
             "tags": {
@@ -232,10 +232,10 @@
             "game-atlas"
           ],
           "src": [
-            "game/game-atlas-vHP-hg.webp.json",
-            "game/game-atlas-g84VPA@0.5x.webp.json",
-            "game/game-atlas-dHEn@0.5x.png.json",
-            "game/game-atlas-7SWcag.png.json"
+            "game/game-atlas-Z64lvA@0.5x.webp.json",
+            "game/game-atlas-RhyXJQ.webp.json",
+            "game/game-atlas-3zTjhw@0.5x.png.json",
+            "game/game-atlas-0fvGZw.png.json"
           ],
           "data": {
             "tags": {
